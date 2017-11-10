@@ -61,3 +61,70 @@ body {
 .header-content .header-title {
   color: #fff;
 }
+.border-table {
+  border-radius: 2px;
+  border: initial;
+  background: #fff;
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-left: -415px;
+  width: 35%;
+  -webkit-box-shadow: 1px 1px 2px;
+          box-shadow: 1px 1px 2px;
+}
+.border-table2 {
+  border: initial-letter inherit;
+  border-radius: 2px;
+  background: #fff;
+  position: fixed;
+  top: 28%;
+  left: 50%;
+  margin-left: -415px;
+  width: 35%;
+  -webkit-box-shadow: 1px 1px 2px #000;
+          box-shadow: 1px 1px 2px #000;
+}
+.bg-color {
+  background: #008000;
+}
+.icon-tc {
+  text-align: center;
+  margin: 25 25 25 25;
+}
+.icon-tc .img {
+  margin-top: 75px;
+  margin-bottom: 20px;
+}
+.text-tc {
+  text-align: center;
+  font-size: 55px;
+}
+.text-content {
+  text-align: center;
+}
+.icon-center {
+  text-align: center;
+}
+.icon-center .icon-margin1 {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.icon-center .icon-margin2 {
+  margin-bottom: 20px;
+}
+.icon-center .icon-margin3 {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.btn-center {
+  border-radius: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.btn-center .btn-margin {
+  margin-bottom: 20px;
+}
+.btn-sign-in {
+  margin-bottom: 15px;
+}
